@@ -22,8 +22,8 @@ export const product = {
     { id: "rose", name: "Rose Alloy", swatch: "#B8887E" }
   ],
   images: {
-    hero: "/product/watch-hero.webp",
-    angle: "/product/watch-angle.webp",
-    detail: "/product/watch-detail.webp"
+    hero: "/images/watch-hero.webp",
+    angle: "/images/watch-angle.webp",
+    detail: "/images/watch-detail.webp"
   }
 };
